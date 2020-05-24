@@ -3,7 +3,7 @@ The project is part of the Microservice course.
 
 This a Docker container with 4 diferent images containing Nginx PHP-FPM/Laravel Redis andMySQL.
 
-## Clone it and Run it
+## Clone and Run
 ```
 $ docker-compose up -d
 ```
