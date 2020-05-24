@@ -1,5 +1,5 @@
 # About
-The project is part of the Microservice course.
+The project is part of the challenges of Microservices Course from Code Education.
 
 This a Docker container with 4 diferent images containing Nginx PHP-FPM/Laravel Redis andMySQL.
 
